@@ -1,2 +1,1 @@
-Meu primeiro projeto no GIT. 
-EDIT: "nada"
+Meu primeiro projeto no GIT.
